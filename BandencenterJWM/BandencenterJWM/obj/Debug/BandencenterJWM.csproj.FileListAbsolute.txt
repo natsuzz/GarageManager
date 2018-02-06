@@ -1,0 +1,17 @@
+C:\Users\jordi\onedrive\documents\visual studio 2017\Projects\BandencenterJWM\BandencenterJWM\bin\Debug\BandencenterJWM.exe.config
+C:\Users\jordi\onedrive\documents\visual studio 2017\Projects\BandencenterJWM\BandencenterJWM\bin\Debug\BandencenterJWM.exe
+C:\Users\jordi\onedrive\documents\visual studio 2017\Projects\BandencenterJWM\BandencenterJWM\bin\Debug\BandencenterJWM.pdb
+C:\Users\jordi\onedrive\documents\visual studio 2017\Projects\BandencenterJWM\BandencenterJWM\obj\Debug\BandencenterJWM.csprojResolveAssemblyReference.cache
+C:\Users\jordi\onedrive\documents\visual studio 2017\Projects\BandencenterJWM\BandencenterJWM\obj\Debug\BandencenterJWM.Main.resources
+C:\Users\jordi\onedrive\documents\visual studio 2017\Projects\BandencenterJWM\BandencenterJWM\obj\Debug\BandencenterJWM.Properties.Resources.resources
+C:\Users\jordi\onedrive\documents\visual studio 2017\Projects\BandencenterJWM\BandencenterJWM\obj\Debug\BandencenterJWM.csproj.GenerateResource.Cache
+C:\Users\jordi\onedrive\documents\visual studio 2017\Projects\BandencenterJWM\BandencenterJWM\obj\Debug\BandencenterJWM.exe
+C:\Users\jordi\onedrive\documents\visual studio 2017\Projects\BandencenterJWM\BandencenterJWM\obj\Debug\BandencenterJWM.pdb
+C:\Users\jordi\onedrive\documents\visual studio 2017\Projects\BandencenterJWM\BandencenterJWM\bin\Debug\Spire.Doc.dll
+C:\Users\jordi\onedrive\documents\visual studio 2017\Projects\BandencenterJWM\BandencenterJWM\bin\Debug\Spire.License.dll
+C:\Users\jordi\onedrive\documents\visual studio 2017\Projects\BandencenterJWM\BandencenterJWM\bin\Debug\Spire.Pdf.dll
+C:\Users\jordi\onedrive\documents\visual studio 2017\Projects\BandencenterJWM\BandencenterJWM\bin\Debug\Microsoft.mshtml.dll
+C:\Users\jordi\onedrive\documents\visual studio 2017\Projects\BandencenterJWM\BandencenterJWM\bin\Debug\Spire.Doc.xml
+C:\Users\jordi\onedrive\documents\visual studio 2017\Projects\BandencenterJWM\BandencenterJWM\bin\Debug\Spire.License.xml
+C:\Users\jordi\onedrive\documents\visual studio 2017\Projects\BandencenterJWM\BandencenterJWM\obj\Debug\BandencenterJWM.Klanten.resources
+C:\Users\jordi\onedrive\documents\visual studio 2017\Projects\BandencenterJWM\BandencenterJWM\obj\Debug\BandencenterJWM.Customers.Forms.AddCustomers.resources
